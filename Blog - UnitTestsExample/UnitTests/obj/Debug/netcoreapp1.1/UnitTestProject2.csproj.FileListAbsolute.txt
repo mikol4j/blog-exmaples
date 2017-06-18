@@ -1,0 +1,14 @@
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\UnitTestProject2\bin\Debug\netcoreapp1.1\UnitTestProject2.deps.json
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\UnitTestProject2\bin\Debug\netcoreapp1.1\UnitTestProject2.runtimeconfig.json
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\UnitTestProject2\bin\Debug\netcoreapp1.1\UnitTestProject2.runtimeconfig.dev.json
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\UnitTestProject2\obj\Debug\netcoreapp1.1\UnitTestProject2.csprojResolveAssemblyReference.cache
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\UnitTestProject2\obj\Debug\netcoreapp1.1\UnitTestProject2.AssemblyInfo.cs
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\UnitTestProject2\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\UnitTestProject2\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\UnitTestProject2\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\UnitTestProject2\bin\Debug\netcoreapp1.1\UnitTestProject2.dll
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\UnitTestProject2\bin\Debug\netcoreapp1.1\UnitTestProject2.pdb
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\UnitTestProject2\bin\Debug\netcoreapp1.1\WebApplication2.dll
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\UnitTestProject2\bin\Debug\netcoreapp1.1\WebApplication2.pdb
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\UnitTestProject2\obj\Debug\netcoreapp1.1\UnitTestProject2.dll
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\UnitTestProject2\obj\Debug\netcoreapp1.1\UnitTestProject2.pdb

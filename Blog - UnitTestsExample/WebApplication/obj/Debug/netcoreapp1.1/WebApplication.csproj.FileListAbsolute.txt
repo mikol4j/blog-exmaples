@@ -1,0 +1,17 @@
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication.deps.json
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication.runtimeconfig.json
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication.runtimeconfig.dev.json
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication.dll
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication.pdb
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication.csprojResolveAssemblyReference.cache
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication.AssemblyInfo.cs
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication.dll
+c:\users\69njf4j\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication.pdb
+C:\Users\69NJF4J\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.deps.json
+C:\Users\69NJF4J\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.runtimeconfig.json
+C:\Users\69NJF4J\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.runtimeconfig.dev.json
+C:\Users\69NJF4J\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.dll
+C:\Users\69NJF4J\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.pdb
+C:\Users\69NJF4J\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.AssemblyInfo.cs
+C:\Users\69NJF4J\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.dll
+C:\Users\69NJF4J\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.pdb
